@@ -1,7 +1,7 @@
 <?php
 
     $server = 'localhost';
-    $user = 'root';
+    $user = '';
     $password = '';
     $db = 'bmu_bank';
 
