@@ -1,5 +1,5 @@
 # Bank-Management-System
-A Bank Management System using PHP, MySQL, HTML, CSS and Bootstrap. No backend framework has been used. This was made to demonstrate web and database-programming skills. It was done as a part of Database Course.
+A Bank Management System using PHP, MySQL, HTML, CSS and Bootstrap. It was done as a part of Database Course.
 # Features
 * A few basic security Aspects - SQL Injection, Password Hash and stuff
 * All forms validated on Server Side using PHP
